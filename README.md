@@ -1,2 +1,2 @@
-# Sec-tools
-Security tools for my day to day tasks.
+# Network Sec-tools
+A collection of my Python tools for network security. 
